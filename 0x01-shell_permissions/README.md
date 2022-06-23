@@ -3,3 +3,4 @@ File 1-who_am_i creates a script that prints the effective user ID of the curren
 File 2-groups creates a scriptthat prints all the groups that the current user is part of
 File 3-new_owner creates a script that changes the owner of the file hello to the user betty
 File 4-empty creates a script that creates an empty file called hello.
+File 5-execute creates a script that adds execute permission to the owner of the file hello
