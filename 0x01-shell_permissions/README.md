@@ -6,3 +6,4 @@ File 4-empty creates a script that creates an empty file called hello.
 File 5-execute creates a script that adds execute permission to the owner of the file hello
 File 6-multiple_permissions creates a script that grants execution permission to both users and group but read permission to other users.
 File 7-everybody creates a script that adds execution permission to the owner, the group and other users to the file hello
+File 8-James_Bond creates a script that sets no permission at all to the owner and group owner but sets all permission to other users of the file hello
