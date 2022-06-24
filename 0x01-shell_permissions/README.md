@@ -9,3 +9,4 @@ File 7-everybody creates a script that adds execution permission to the owner, t
 File 8-James_Bond creates a script that sets no permission at all to the owner and group owner but sets all permission to other users of the file hello
 File 9-John_Doe creates a script that sets the mode of the file hello as follows: -rwxr-x-wx.
 File 10-mirror_permissions creates a script that sets the mode of the file hello the same as olleh
+File 11-directories_permissions creates a script that adds execute permissionto all subdirectories of the current directory for the owner, the group owner and all other users.
